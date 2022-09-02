@@ -1,0 +1,25 @@
+.um-cinco, .tres{
+    background-color: pink;
+    color: black;
+}
+
+.tres {
+    font-size: 45px;
+}
+#dois {
+    background-color: white;
+    font-size: 60px;
+    color: blue;
+ }
+
+#quatro {
+    font-weight: bold;
+    color:black;
+    background-color: #80FF80;
+    font-size: 38px;
+}
+
+
+.um-cinco{
+    font-size: 30px;
+}
